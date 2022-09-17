@@ -33,5 +33,7 @@ python auto_test_Dir.py --testdir Dir_test --model model.h5 --resize 128 --resca
 
 ## MIT
 ### The MIT License
+"""
 License: MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+"""
