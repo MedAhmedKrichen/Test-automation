@@ -1,5 +1,6 @@
 # Test-automation
 
+This an automation for computer vision classification testing.
 
 ## Image Testing:
 ```
