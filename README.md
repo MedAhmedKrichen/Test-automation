@@ -1,6 +1,9 @@
 # Test-automation
 
-This an automation for computer vision classification testing.
+This an automation for computer vision classification testing that help you to: 
+  - preprocesse image with (greyscale/rescale/resize) 
+  - predict one image classe.
+  - evaluate the test set for the chosen model by multiple metrics(categorical crossentropy/F1 score/accuracy/recall/precision).   
 
 ## Image Testing:
 ```
