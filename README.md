@@ -1,7 +1,7 @@
 # Test-automation
 
 
-Image Testing:
+## Image Testing:
 ```
 python auto_test_image.py --testimg Img_test/8.jpg --model model.h5 --resize 128 --rescale --classes cat  dog --binary
 ```
@@ -15,7 +15,7 @@ python auto_test_image.py --testimg Img_test/8.jpg --model model.h5 --resize 128
 --binary: binary classification
 ```
 
-Image Directory Testing:
+## Image Directory Testing:
 ```
 python auto_test_Dir.py --testdir Dir_test --model model.h5 --resize 128 --rescale
 ```
