@@ -32,7 +32,7 @@ img = cv2.imread(opt.testimg)
 length = opt.resize
 img.resize((length,length,3))
 
-img = np.array(img).reshape(1,128,128,3)
+img = np.array(img).reshape(1,length,length,3)
 
 if opt.rescale == True:
     img = img /255
